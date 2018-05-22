@@ -7,6 +7,10 @@ custom_links:
     url: /join-our-team/
   - title: Events
     url: https://www.eventbrite.com/e/lxr-million-dollar-agent-business-planning-clinic-tickets-44406953393
+  - title: Strategy Call
+    url: /strategy-call/
+  - title: Subscribe
+    url: /subscribe/
 
 emma:
   lightbox:
@@ -22,7 +26,7 @@ client:
   brand: Local Expert Realty
   brokerage:
   address: 705 Park Ave, Falls Church, VA 22046
-  phone: 571-337-2609
+  phone: 888-297-8393
   phone_type:
   phone2:
   phone2_type:
@@ -88,7 +92,7 @@ images:
   logo_width_number: 60
   hero_text: LXR Real Estate Coaching
   hero_background_hex: '#f26532'
-  hero_image_path: /img/background1.jpg
+  hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#1c3f95'
@@ -104,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgb(238, 238, 238)
+  # shadow_color: rgb(238, 238, 238)
 
 buttons:
   button_radius_number: 0

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Local Expert Realty | Albany's Best Real Estate Training and Coaching Team</title>
+    <title>Local Expert Realty | DC Metro Area's Best Real Estate Training and Coaching Team</title>
     <description>Kristy Moore, a top Real Estate Agent in the DC Metro Area, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 May 2018 13:52:49 -0500</pubDate>
-    <lastBuildDate>Wed, 16 May 2018 13:52:49 -0500</lastBuildDate>
+    <link>http://lxrcoaching.com/</link>
+    <atom:link href="http://lxrcoaching.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 22 May 2018 15:44:27 -0500</pubDate>
+    <lastBuildDate>Tue, 22 May 2018 15:44:27 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
