@@ -28,16 +28,16 @@ youtube_code: FgXJxcNa0rI
 
 What’s the key to explaining our market to buyers and sellers?
 
-When you host buyer or seller presentations, **the first thing you should do after building a rapport is to start delving into market data.** This will make sure the client you’re working with is properly educated. If a client understands current trends, they will be more receptive to your guidance. 
+When you host buyer or seller presentations, **the first thing you should do after building a rapport is to start delving into market data.** This will make sure the client you’re working with is properly educated. If a client understands current trends, they will be more receptive to your guidance.&nbsp;
 
-For instance, imagine you’re in a hot seller’s market where properties are selling far above asking price. If your client doesn’t understand this and you advise them to make an offer above list price, they might assume that you’re just trying to achieve a quick transaction. 
+For instance, imagine you’re in a hot seller’s market with a buyer where properties are selling far above asking price. If your client doesn’t understand this and you advise them to make an offer above list price, they might assume that you’re just trying to achieve a quick transaction.&nbsp;
 
-When working with buyers, one of the of the first pieces of data you should show them is what the list-to-sold price ratio looks like for the areas they’re interested in. This way, **they’ll have a clear idea of what constitutes a good deal and how they should proceed with making an offer. **
+When working with buyers, one of the of the first pieces of data you should show them is what the list-to-sold price ratio looks like for the areas they’re interested in. This way, **they’ll have a clear idea of what constitutes a good deal and how they should proceed with making an offer.&nbsp;**
 
 {% include pullquote.html %}
 
-Sellers, too, need to understand market trends. Absorption rates are particularly relevant in their case. This way when your client goes to list their home, they’ll have a clear understanding of how the pricing strategy you choose reflects the market. Being able to guide the seller through your marketing strategy with current trends in mind will make for a more successful transaction, overall. 
+Sellers, too, need to understand market trends. Absorption rates are particularly relevant in their case. This way when your client goes to list their home, they’ll have a clear understanding of how the pricing strategy you choose reflects the market. Being able to guide the seller through your marketing strategy with current trends in mind will make for a more successful transaction, overall.&nbsp;
 
-Especially when the market is shifting in favor of buyers, **you must be able to explain to your sellers why a competitive listing strategy is necessary.** Your clients are more likely to trust your guidance when they understand the reasoning behind it. 
+Especially when the market is shifting in favor of buyers, **you must be able to explain to your sellers why a competitive listing strategy is necessary.** Your clients are more likely to trust your guidance when they understand the reasoning behind it.&nbsp;
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
