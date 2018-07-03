@@ -1359,6 +1359,9 @@ html[xmlns] .flexslider .slides {
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
 
+.nav > li > a {
+  padding: 10px; }
+
 .navbar-left > li > a {
   background: transparent;
   color: #1c3f95;
