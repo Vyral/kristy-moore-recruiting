@@ -3,7 +3,9 @@ layout: default
 title: Sponsorship Partners
 permalink: /partners/
 ---
-<h3>You can become a sponsor with this button below.</h3>
+<h3>Become a Brand Ambassador</h3>
+
+<p>To become a brand ambassador of Local Expert Realty and connect with our business owners in our community at our events and be featured on our video blog please call <a href="tel:1-301-509-8950">(301) 509-8950</a> or email <a href="mailto:anita@localexpertrealty.com">anita@localexpertrealty.com</a>.</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
