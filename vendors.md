@@ -6,8 +6,14 @@ permalink: /vendors/
 <h1 class="vendor">Preferred Vendors</h1>
 <div class="vendors-navbar">
   <a href="#Mortgage" class="a-name">Mortgage</a> |
-  <a href="#HVAC" class="a-name">HVAC</a> |
-  <a href="#Title" class="a-name">Title</a>
+  <a href="#HVAC" class="a-name">Title</a> |
+  <a href="#Title" class="a-name">HVAC</a> |
+  <a href="#Title" class="a-name">Painters</a> |
+  <a href="#Title" class="a-name">Flooring contractors</a> |
+  <a href="#Title" class="a-name">General contractors</a> |
+  <a href="#Title" class="a-name">Handymen</a> |
+  <a href="#Title" class="a-name">Plumping</a> |
+  <a href="#Title" class="a-name">Electrical</a>
 </div>
 
 <h2 class="vendor"><a name="Mortgage" class="a-name">Mortgage</a></h2>
@@ -38,34 +44,6 @@ permalink: /vendors/
 
 <hr>
 
-<h2 class="vendor"><a name="HVAC" class="a-name">HVAC</a></h2>
-<div class="row">
-  <div class="col-lg-4">
-    <a href="#"><img src="/img/vendor-logo4.jpg" class="vendor-logo" id="vendor3"></a><br>
-    <!-- <h5 class="vendor-name"><a href="#">Vendor Four</a></h5> -->
-  </div>
-
-
-  <div class="col-lg-4">
-    <a href="#"><img src="/img/vendor-logo5.jpg" class="vendor-logo" id="vendor7"></a><br>
-    <!-- <h5 class="vendor-name"><a href="#">Vendor Five</a></h5> -->
-  </div>
-
-
-  <div class="col-lg-4">
-    <a href="#"><img src="/img/vendor-logo6.jpg" class="vendor-logo"></a><br>
-    <!-- <h5 class="vendor-name"><a href="#">Vendor Six</a></h5> -->
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-4"><h5 class="vendor-name"><a href="#">Vendor Four</a></h5></div>
-  <div class="col-lg-4"><h5 class="vendor-name"><a href="#">Vendor Five</a></h5></div>
-  <div class="col-lg-4"><h5 class="vendor-name"><a href="#">Vendor Six</a></h5></div>
-</div>
-
-<hr>
-
 <h2 class="vendor"><a name="Title" class="a-name">Title</a></h2>
 <div class="row">
   <div class="col-lg-4">
@@ -83,6 +61,34 @@ permalink: /vendors/
   <div class="col-lg-4">
     <a href="#"><img src="/img/vendor-logo9.jpg" class="vendor-logo" id="vendor3"></a><br>
     <!-- <h5 class="vendor-name"><a href="#">Vendor Nine</a></h5> -->
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-4"><h5 class="vendor-name"><a href="#">Vendor Four</a></h5></div>
+  <div class="col-lg-4"><h5 class="vendor-name"><a href="#">Vendor Five</a></h5></div>
+  <div class="col-lg-4"><h5 class="vendor-name"><a href="#">Vendor Six</a></h5></div>
+</div>
+
+<hr>
+
+<h2 class="vendor"><a name="HVAC" class="a-name">HVAC</a></h2>
+<div class="row">
+  <div class="col-lg-4">
+    <a href="#"><img src="/img/vendor-logo4.jpg" class="vendor-logo" id="vendor3"></a><br>
+    <!-- <h5 class="vendor-name"><a href="#">Vendor Four</a></h5> -->
+  </div>
+
+
+  <div class="col-lg-4">
+    <a href="#"><img src="/img/vendor-logo5.jpg" class="vendor-logo" id="vendor7"></a><br>
+    <!-- <h5 class="vendor-name"><a href="#">Vendor Five</a></h5> -->
+  </div>
+
+
+  <div class="col-lg-4">
+    <a href="#"><img src="/img/vendor-logo6.jpg" class="vendor-logo"></a><br>
+    <!-- <h5 class="vendor-name"><a href="#">Vendor Six</a></h5> -->
   </div>
 </div>
 
