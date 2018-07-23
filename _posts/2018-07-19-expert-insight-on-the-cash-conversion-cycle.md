@@ -14,8 +14,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kristy+Moore/LXR+Real+Estate+Coaching-+Cash+Conversion+Rate.mp4
 pullquote: >-
-  When you start a new farming campaign, it takes about 8 to 12 months to get
-  your investment back.
+  When you start a new farming campaign, it takes about eight to 12 months to
+  get your investment back.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -25,9 +25,9 @@ youtube_code: 2WklXJRQc90
 
 {% include youtube.html %}
 
-I have been selling real estate for 12 years, and our team of highly trained professionals, along with our marketing plan, has sold over 700 homes all over the D.C. market. Drawing on this experience, I wanted to discuss the cash conversion cycle and the monetary aspect of having a farm campaign or target market to whom you are actively direct mailing.
+I have been selling real estate for 12 years, and our team of highly trained professionals, along with our marketing plan, has sold over 700 homes all over the D.C. market. Drawing on this experience, I wanted to discuss the cash conversion cycle and the monetary aspect of having a farm campaign or target market to whom you are actively direct-mailing.
 
-Generally speaking, when you start a new farming campaign, it takes about 8 to 12 months to get your investment back. That means if you put $12,000 into it, you will recoup that in about a year. It will take about 18 months after starting to start seeing a return, and up to 2 years to fully realize your return. **The reason for this is that people who are looking for their home value or are interested in getting information about sales in their area are pretty early in the process;** about 15% of those people will be looking to do something in the next 90 days, and 85% are looking to do something in more than 90 days.
+Generally speaking, when you start a new farming campaign, it takes about eight to 12 months to get your investment back. That means if you put $12,000 into it, you will recoup that in about a year. It will take about 18 months after starting to start seeing a return, and up to two years to fully realize your return. **The reason for this is that people who are looking for their home value or are interested in getting information about sales in their area are pretty early in the process;** about 15% of those people will be looking to do something in the next 90 days, and 85% are looking to do something in more than 90 days.
 
 {% include pullquote.html %}
 
