@@ -31,7 +31,7 @@ Generally speaking, when you start a new farming campaign, it takes about eight 
 
 {% include pullquote.html %}
 
-**You can generally expect about a 7% to 10% conversion rate,** which means that if you get 100 leads, you should be able to close seven to 10 of those within that 18- to 24-month period. As far as your ROI, you should be able to expect about a 5% to 10% return—if you spend $10,000, should be getting $50,000 to $100,000 back.
+**You can generally expect about a 7% to 10% conversion rate,** which means that if you get 100 leads, you should be able to close seven to 10 of those within that 18- to 24-month period. As far as your ROI, you should be able to expect an ROI of 5-10X—if you spend $10,000, should be getting $50,000 to $100,000 back.
 
 **It will take some time to get your money back.** However, once you start to make a return, if you do it consistently, you can make really good returns in the long term. It also depends on who is calling your leads; **if you are calling the leads and you are well-scripted and normally high-converting, you will end up at the higher end of the range. If you have an ISA or a newer salesperson calling the leads, you will likely end up at the lower end of the range.** This makes sense: if you are doing all the work yourself, you should be getting a higher return, but if you have multiple people involved in the process, you will generally get a lower return, but you should be able to do a higher volume of business.
 
