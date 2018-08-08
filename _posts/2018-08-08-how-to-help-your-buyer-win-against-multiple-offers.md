@@ -26,7 +26,7 @@ Today I want to talk about how you can make sure that your buyer wins in a multi
 
 I generally deal with listings and have to deal with multiple offers all the time. Here’s what stands out to me when I’m sifting through offers.
 
-First, stay in communication with the listing agent. I can’t tell you how many times I have buyer’s agents submit offers and never reach out. If a buyer’s agent is reaching out to me and communicating and showing me they are aggressive and a good agent, **I’m more apt to stay in communication with them and maybe even give them some hints about how they can win against the other buyers.&nbsp;**
+First, stay in communication with the listing agent. I can’t tell you how many times I have buyer’s agents submit offers and never reach out. If a buyer’s agent is reaching out to me and communicating and showing me they are aggressive and a good agent, **I’m more apt to stay in communication with them and maybe even give them some hints about how they can win against the other buyers. **
 
 As a seller’s agent, I want to make sure that I’m dealing with a good buyer’s agent because I want to keep things drama free for my seller and I also don’t want things to fall apart. **Stay in communication with the listing agent, show them you won’t cause any drama, and show them that you’re serious.**
 
@@ -34,7 +34,7 @@ The next thing you’ll need is a very solid approval letter. Not a pre-approval
 
 {% include pullquote.html %}
 
-Also, have your lender reach out to the listing agent. When I know I’m dealing with multiple offers, this is one way that a buyer and their agent will stand out to myself and my seller.&nbsp;
+Also, have your lender reach out to the listing agent. When I know I’m dealing with multiple offers, this is one way that a buyer and their agent will stand out to myself and my seller. 
 
 The next thing to make sure is that your inspection contingency is very tight. A short deadline, and not asking for repairs over a certain amount. You could also do a pre-inspection on the property before the offer deadline, then your buyer knows what they are getting into and you can waive the inspection contingency.
 
