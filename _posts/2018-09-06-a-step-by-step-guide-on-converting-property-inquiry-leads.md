@@ -21,7 +21,7 @@ youtube_code: 3-XX2D7OJ9g
 
 {% include youtube.html %}
 
-<p style="text-align: center;">*Today, I’d like to guide you through the process of converting property inquiry leads. Let’s take a look at what this involves.&nbsp;*</p>
+<center>*Today, I’d like to guide you through the process of converting property inquiry leads. Let’s take a look at what this involves.&nbsp;*</center>
 
 Agents often ask me about converting property inquiry leads, like those from Zillow, and today I’d like to provide some insight into this question.&nbsp;
 
