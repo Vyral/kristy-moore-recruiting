@@ -21,6 +21,8 @@ youtube_code: 3-XX2D7OJ9g
 
 {% include youtube.html %}
 
+Today, I’d like to guide you through the process of converting property inquiry leads. Let’s take a look at what this involves.&nbsp;
+
 Agents often ask me about converting property inquiry leads, like those from Zillow, and today I’d like to provide some insight into this question.&nbsp;
 
 First of all, keep in mind that property inquiry leads are very different from search leads, pay-per-click leads, etc. Generally, **these leads are further along in the process and are strongly focused on seeing the house they reached out to you about.** Their main goal is to see the home—not to meet with you, or any other agent.&nbsp;
