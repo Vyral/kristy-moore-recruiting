@@ -33,9 +33,9 @@ Still, there is a way to approach this scenario that will let you and your lead 
 
 After that, you can begin to qualify them. Then, if they’re qualified and not currently working with another agent, you can proceed with guiding them through the rest of the real estate process.&nbsp;
 
-**Understanding a lead’s motivation, schedule, and current circumstances will all be essential in successfully converting them.&nbsp;**
-
 {% include pullquote.html %}
+
+**Understanding a lead’s motivation, schedule, and current circumstances will all be essential in successfully converting them.&nbsp;**
 
 When it comes to motivation, leads with a specific reason for moving will be more likely to go through with the transaction. Therefore, narrowing down their motivation will be key.&nbsp;
 
