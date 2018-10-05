@@ -1,11 +1,9 @@
 ---
 layout: post
 title: How Do You Convert “Every Day Open House” Leads?
-date:
+date: 2018-10-05 17:12:31
 tags:
-  - Lead Tips
   - Real Estate
-  - Open House
 excerpt: >-
   What does it take to convert an “every day open house” lead? Today I’ll
   explain
@@ -23,14 +21,14 @@ youtube_code: k_Kg013UcW8
 
 {% include youtube.html %}
 
-What’s the key to converting an “every day open house” lead?&nbsp;
+What’s the key to converting an “every day open house” lead? 
 
-Signs that advertise daily open houses and ask buyers to call for times can be a great way to get in touch with potential clients.&nbsp;
+Signs that advertise daily open houses and ask buyers to call for times can be a great way to get in touch with potential clients. 
 
-Buyers who reach out after seeing these signs may believe that the times have already been set, but what the signs actually indicate (as you probably know) is that **these homes are available to be shown at any time.&nbsp;**
+Buyers who reach out after seeing these signs may believe that the times have already been set, but what the signs actually indicate (as you probably know) is that **these homes are available to be shown at any time. **
 
 {% include pullquote.html %}
 
-And this is exactly what you can tell buyers when they call. When they ask about when you’ll be holding an open house, simply ask when they’d like to see it. After this, **the next step is to run through the qualifying questions on your universal call-back script.**&nbsp;
+And this is exactly what you can tell buyers when they call. When they ask about when you’ll be holding an open house, simply ask when they’d like to see it. After this, **the next step is to run through the qualifying questions on your universal call-back script.** 
 
 If you have any other questions or would like more information, feel free to give me a call or text, or send me an email. I look forward to hearing from you soon.
