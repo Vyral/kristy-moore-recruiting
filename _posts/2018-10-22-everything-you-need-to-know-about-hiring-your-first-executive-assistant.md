@@ -33,6 +33,6 @@ As we mentioned earlier, you must also make sure that this person’s personalit
 
 All of these considerations are important, but they will only matter if you can actually afford an executive assistant to begin with. Having at least three months’ worth of your future assistant’s pay set aside in savings before you even hire them will safeguard you against potential financial issues that might otherwise arise. This will be especially important if the hire ends up not working out—which, unfortunately, can sometimes happen regardless of the amount of planning you put into the process.&nbsp;
 
-However, **if you consistently **check in** with their progress, take time to train them each day, and continuously guide them as they become acclimated to their new role, they will be much more likely to succeed.**
+However, **if you consistently check in with their progress, take time to train them each day, and continuously guide them as they become acclimated to their new role, they will be much more likely to succeed.**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
