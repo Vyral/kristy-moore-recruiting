@@ -35,7 +35,7 @@ The reason why you want to say this is that if you don’t, they’ll hang up on
 
 The reason why you want to ask this question is you want to keep the dialogue moving and keep them on the phone while you’re looking up the property’s information and trying to get a feel for whether the caller is a true prospect or not.&nbsp;
 
-Once you look up the property’s information, tell them about its features and benefits first before listing the price. After that, ask them if that’s the price range they’re looking to buy in. The reason why you want to ask this is that most people call about properties they can’t afford, so **you want to know if the property is out of their price range and, again, keep the dialogue moving so they just don’t just hang up on you after they learn the price.**
+Once you look up the property’s information, tell them about its features and benefits first before listing the price. After that, ask them if that’s the price range they’re looking to buy in. The reason why you want to ask this is that most people call about properties they can’t afford, so **you want to know if the property is out of their price range and, again, keep the dialogue moving so they don’t just hang up on you after they learn the price.**
 
 {% include pullquote.html %}
 
