@@ -30,7 +30,7 @@ Don’t settle with just any inspector! You want to avoid the many inspectors ou
 
 {% include pullquote.html %}
 
-**Many times, we recommend to buyers that they get multiple inspections.** If they’re buying an old house, it’s important to get a plumbing inspection; a lot of these houses have old piping that is corroded and on the verge of bursting. The same goes for having an old HVAC inspected; you can always ask the seller to conduct servicing and inspection to make sure it’s in working order. Keep in mind, if the home has a warranty and the HVAC is not working at the time of inspection, the warranty company will not cover something that happens afterward because it would then be considered a pre-existing condition. It’s also important to have electrical systems inspected.
+**Many times, we recommend to buyers that they get multiple inspections.** If they’re buying an old house, it’s important to get a plumbing inspection; a lot of these houses have old piping that is corroded and on the verge of bursting. The same goes for having an old HVAC unit inspected; you can always ask the seller to conduct servicing and inspection to make sure it’s in working order. Keep in mind, if the home has a warranty and the HVAC unit is not working at the time of inspection, the warranty company will not cover something that happens afterward because it would then be considered a pre-existing condition. It’s also important to have electrical systems inspected.
 
 With a roof, an inspector won’t usually tell you how much life it has left or even how old it is. If it does seem like it’s old, have an actual roofer inspect it to determine its age and the time it has left. Many people move into properties and have their roofing fail within a few months.
 
