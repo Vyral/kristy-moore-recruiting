@@ -34,7 +34,7 @@ The next topic, occupation, will also tell you a lot about a client and their re
 
 {% include pullquote.html %}
 
-Third, you should bring the conversation around to the client’s recreational preferences. This will help you suss out whether there are any certain amenities they might like to be near in their new home, such as a park, swimming pool, gym, or hiking trail. In addition to this, being aware of their hobbies and interests will also help you out when it comes time to give them gifts when following up to gain referral business.&nbsp;
+Third, you should bring the conversation around to the client’s recreational preferences. This will help you suss out whether there are any certain amenities they might like to be near or in their new home, such as a park, swimming pool, gym, or hiking trail. In addition to this, being aware of their hobbies and interests will also help you out when it comes time to give them gifts when following up to gain referral business.&nbsp;
 
 Finally, don’t forget to ask about their dreams. Some buyers may plan to turn the home they’re purchasing now into an investment property down the line, and some sellers may plan to use the funds from their sale to travel. **Knowing what a client’s goals are will help inform the way you treat their transaction.** The bottom line is that knowing who your clients are as people and what they want from their real estate transaction is critical to their (and your) success.&nbsp;
 
