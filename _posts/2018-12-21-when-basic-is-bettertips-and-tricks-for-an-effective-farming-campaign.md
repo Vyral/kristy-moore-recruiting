@@ -1,13 +1,14 @@
 ---
 layout: post
 title: When Basic Is Better—Tips and Tricks for an Effective Farming Campaign
-date: 2018-12-21 21:52:36
+date: 2018-12-21 21:52:00
 tags:
   - Real Estate
 excerpt: >-
   Today I’ll clue you in on what to send and who to send it to when it comes to
   farming a neighborhood.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristy+Moore/LXR+Real+Estate+Coaching-+Farms.mp4
 pullquote: >-
   Prospects want information about their area, not you and all the great things
   you’ve done.
