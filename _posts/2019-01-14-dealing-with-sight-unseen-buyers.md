@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dealing With “Sight Unseen” Buyers
-date: 2019-01-14 21:51:49
+date: 2019-01-14 21:51:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kristy+Moore/LXR+Real+Estate+Coaching-+Dealing+With+Sight+Unseen+Buyers.mp4
 pullquote: >-
   You don’t want to miss any opportunities for your buyer, and you want to get
-  them into a house on their timeframe.
+  them into a house within their time frame.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,7 +23,7 @@ youtube_code: lJLoLKMDZu0
 
 Sometimes, buyers are relocating and have to buy a home quickly, meaning they don’t have the chance to view a home before purchasing it. **So how do you sell a home to a buyer who can’t stop in to see it?** Here’s what you need to understand.
 
-You need to be at their beck and call; **you must both respond to them and be able look at potential properties quickly.** You don’t want to miss any opportunities for your buyer, and you want to get them into a house on their timeframe. You’ll likely be dealing with someone in a different time zone, so set up times to talk that work for both of you—you don’t want to be called while you’re asleep and vice versa.
+You need to be at their beck and call; **you must both respond to them and be able look at potential properties quickly.** You don’t want to miss any opportunities for your buyer, and you want to get them into a house within their time frame. You’ll likely be dealing with someone in a different time zone, so set up times to talk that work for both of you—you don’t want to be called while you’re asleep and vice versa.
 
 Once you’ve found properties that meet their criteria, show them the property either through a Facetime call or a recorded video. While shooting video, **point out both good features and defects**—even if the pictures online look great, that may not be the case in person.
 
