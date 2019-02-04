@@ -25,9 +25,9 @@ In order to maximize your open house traffic, there are several strategies you c
 
 Whenever I host an open house, I ascribe to the “land, sea, and air” type of marketing. In other words, **I want it advertised online, offline, and anywhere else people can find it.**
 
-For example, one way we generate a lot of traffic online for our open houses is through our event postings on our Facebook page. That way, each event we post shows up in the newsfeed of all our Facebook followers in the area. We also do target marketing through Facebook for people who will most likely purchase a home in that location.
+For example, one way we generate a lot of online traffic online for our open houses is through our event postings on our Facebook page. That way, each event we post shows up in the newsfeed of all our Facebook followers in the area. We also do target marketing through Facebook for people who will most likely purchase a home in that location.
 
-Additionally, we promote the open house on Instagram, other social media websites, and many popular real estate websites (including, of course, the MLS). Don’t forget, if a property isn’t on the market by Wednesday, it doesn’t show up in the Washington Post open house list that week.
+Additionally, we promote the open house on Instagram, other social media websites, and many popular real estate websites (including, of course, the MLS). Don’t forget, if a property isn’t on the market by Wednesday, it won't show up in the Washington Post's open house list that week.
 
 One of the offline strategies we use to generate traffic is **inviting the neighbors**, and there are a couple ways you can do this. The first is simply going door-knocking around the area, handing out flyers, and personally inviting each person you meet.
 
@@ -44,5 +44,3 @@ The first thing I ask a person when I meet them at one of our open houses is how
 Lastly, **you need to do as much as you can to make your open house an event.** This is why we refer to our open houses as “grand openings.” Sometimes we even roll out an orange carpet and set up a velvet rope leading up to the entrance. This helps make a spectacle out of it and persuade people to stop by just to see what’s going on.
 
 If you’d like to talk more about how you can generate as much traffic as possible for your open houses or you have any other questions for me, don’t hesitate to give me a call or shoot me an email. I’d love to help you.
-
-&nbsp;
