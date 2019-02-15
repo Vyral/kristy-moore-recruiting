@@ -1485,7 +1485,6 @@ html[xmlns] .flexslider .slides {
   border: 1px solid #cfcfcf;
   border-radius: 0px;
   width: 100%;
-  background-color: #fff;
   margin-bottom: 20px;
   margin-top: 20px; }
   .library-container h5 {
@@ -1524,7 +1523,7 @@ label.tree-toggle {
   filter: drop-shadow(0px 2px 7px); }
 
 .site-title {
-  color: #fff;
+  color: #1c3f95;
   text-align: center;
   font-weight: 400;
   padding-bottom: 2rem;
@@ -1890,7 +1889,6 @@ table tr, table td {
 
 .content-container {
   border: 1px solid #cfcfcf;
-  background-color: #fff;
   margin: 20px auto; }
   .content-container hr {
     margin-top: 0;
@@ -2134,7 +2132,7 @@ table tr, table td {
       padding: 0.3rem;
       display: inline-block; }
   .socials svg {
-    fill: #fff;
+    fill: #1c3f95;
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
@@ -2289,14 +2287,14 @@ table tr, table td {
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
   .search-box .search-submit {
-    background: #f26532;
+    background: #1c3f95;
     color: white;
     padding: 0.9rem 2rem;
     text-transform: capitalize;
     font-size: 2rem;
     border-radius: 0px;
     font-weight: 300;
-    border: 1px solid #f26532;
+    border: 1px solid #1c3f95;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
@@ -2360,15 +2358,6 @@ table tr, table td {
   display: inline-block;
   margin: auto; }
 
-.about-image-container {
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
-  border: 3px solid #f26532;
-  overflow: hidden;
-  display: block;
-  margin: 0 auto; }
-
 .client-image {
   max-width: 200px; }
 
@@ -2400,7 +2389,7 @@ table tr, table td {
     padding: 10px; }
 
 .gray {
-  background: #fff !important; }
+  background: #ededed; }
   .gray div div h4 {
     text-align: center;
     padding-top: 20px; }
@@ -2673,15 +2662,6 @@ form select {
 
 .newsletter {
   background: #f15a24; }
-
-.container-fluid {
-  background: #1c3f95; }
-
-.container-fluid-post {
-  background: #fff; }
-
-.footer {
-  background: #f26532 !important; }
 
 #side-logo {
   width: 90%;
