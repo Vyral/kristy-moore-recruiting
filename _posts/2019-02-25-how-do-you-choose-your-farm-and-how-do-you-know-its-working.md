@@ -23,9 +23,9 @@ Today we’ll be going over a few things regarding your targeted neighborhood, o
 
 We’ve sent out tens of thousands of postcards to various neighborhoods, and we’ve found that this method doesn’t always work in the long term—even if you’ve chosen the right neighborhood.&nbsp;
 
-**To choose one in the first place, you need to see if the neighborhood has enough houses in it**. It’s tough to build a presence in a neighborhood of only 40 homes, especially if there are only one or two sales each year. It’s simply not worth your time or investment, so you need to look at bigger neighborhoods of between 500 to a few thousand homes.
+**To choose one in the first place, you need to see if the neighborhood has enough houses in it**. It’s tough to build a presence in a neighborhood of only 40 homes, especially if there are only one or two sales each year. It’s simply not worth your time or investment, so you need to look at bigger neighborhoods of between 500 and a few thousand homes.
 
-Next, there must be enough sales in the area to justify spending your money on marketing. You should be looking at a 5% to 10% turnover rate. **Beware of new construction neighborhoods: Turnover rates will look high, but it’s not actually true.** It only looks this way because it’s comprised of new construction sales compared to resales.
+Next, there must be enough sales in the area to justify spending your money on marketing. You should be looking at a 5% to 10% turnover rate. **Beware of new construction neighborhoods: Turnover rates will look high, but that's not actually the case.** It only looks this way because it’s comprised of new construction sales compared to resales.
 
 {% include pullquote.html %}
 
