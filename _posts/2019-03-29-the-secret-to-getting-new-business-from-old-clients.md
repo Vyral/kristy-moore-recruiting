@@ -29,9 +29,9 @@ One important thing to remember as you serve any client is to prioritize strateg
 
 {% include pullquote.html %}
 
-Of course, showing clients you care means keeping top-of-mind even after they’ve finished their deal. Giving a simple gift at closing ( the more personal the better) will help them to feel that they matter. Don’t be afraid to get creative.&nbsp;
+Of course, showing clients you care means keeping top-of-mind even after they’ve finished their deal. Giving a simple gift at closing (the more personal the better) will help them to feel that they matter. Don’t be afraid to get creative.&nbsp;
 
-**Even after closing, it’s important that you follow up**. Reach out to see how everything is going and, of course, enter them into a past client campaign. On our team, this means sending them a once monthly newsletter and inviting them to quarterly events. This means we touch each past client at least 16 times a year.&nbsp;
+**Even after closing, it’s important that you follow up**. Reach out to see how everything is going and, of course, enter them into a past client campaign. On our team, this means sending them a monthly newsletter and inviting them to quarterly events. This means we touch each past client at least 16 times a year.&nbsp;
 
 And if there are any clients who work with you consistently, or who consistently send you referrals, make sure to reach out even more often. Meeting these people for coffee, inviting them to lunch, or doing anything else that lets you stay in touch will make a massive difference in your business.&nbsp;
 
