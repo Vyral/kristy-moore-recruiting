@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Guide to Following Up with Your Farm Prospects
+title: A Guide to Following Up With Your Farm Prospects
 date: 2019-04-19 16:39:00
 tags:
   - Real Estate
@@ -35,13 +35,13 @@ Lastly, asking “Is that okay?” is courteous—plus, who is going to say it�
 
 The next thing to ask your prospects is, **“Are you folks looking to make a move in the next three to six months?”** Figure out what their timeframe is, and their answer will help you determine your next move.
 
-If they’re looking to move in three months or fewer, you’ll want to set an appointment with them. If they’re looking to move in six months or more, you’ll want to ask if it’s okay to follow up with them.
+If they’re looking to move in three months or less, you’ll want to set an appointment with them. If they’re looking to move in six months or more, you’ll want to ask if it’s okay to follow up with them.
 
 If their answer is yes, which it will be for most people, be sure to ask, **“When would be a good time for me to follow up?”** Whatever their answer is, cut that timeframe in half, minus one month, and follow up with them at that time. For example, if they say to follow up with them in six months, call them in three months. Why? Most people will tell you when they want to move, not when they want to start the process, and we know that the process takes a lot longer than a day. It’s important to follow up with them sooner rather than later so that you don’t miss them.
 
 Remember that it’s important to ask their permission to follow up with them. Most people respect the fact that you’re asking permission, rather than just doing it and possibly annoying them. If they give you permission, your next conversation with them will be much better.
 
-Futher to that, be sure to ask, **“Would you like us to send you a monthly newsletter that keeps you in touch with what’s happening in the marketplace?”** They’re already going to get your market reports on a monthly basis, but we also send out a monthly newsletter that gives them tips about what to do and what not to do in order for them to get the most money from their home sale.
+Further to that, be sure to ask, **“Would you like us to send you a monthly newsletter that keeps you in touch with what’s happening in the marketplace?”** They’re already going to get your market reports on a monthly basis, but we also send out a monthly newsletter that gives them tips about what to do and what not to do in order for them to get the most money from their home sale.
 
 {% include pullquote.html %}
 
@@ -55,7 +55,7 @@ Following that, ask, **“Do you have an agent to help you when the time is righ
 
 If you get the sense that they’re hesitating on this point, ask, “Are you open to having another opinion about your house?” If they say yes, you are generally able to set an appointment with them.
 
-Lastly, you’ll ask to set an appointment. When we do this on our team, we like to give them a no-obligation consultation. Say something along the lines of, **“Would you like us to come by and do an accurate description of what your home would sell for? We can also give you tips and tricks for what to do and not to do in order to get the most money for you home. Additionally, we’ll let you know what you’ll have in your pocket after you pay all of your expenses. Does that sound helpful?”**
+Lastly, you’ll ask to set an appointment. When we do this on our team, we like to give them a no-obligation consultation. Say something along the lines of, **“Would you like us to come by and do an accurate description of what your home would sell for? We can also give you tips and tricks for what to do and not to do in order to get the most money for your home. Additionally, we’ll let you know what you’ll have in your pocket after you pay all of your expenses. Does that sound helpful?”**
 
 Asking that last question is important because most people won’t say no; it is helpful to give them more information and to consult with them. Figure out whether mornings, afternoons, or evenings work best for the clients, so you know when you’ll be able to meet with them.
 
