@@ -53,7 +53,7 @@ Next, be sure to ask, **“If you were to move, when do you think that might be?
 
 Following that, ask, **“Do you have an agent to help you when the time is right?”** You want to know if they’re already committed to somebody; if they’re committed to another agent 100%, then it might not be worth your time to follow up with them. If they don’t have an agent, or they’re unsure of who they might be using, then they may well be open to a second opinion.
 
-If you get the sense that they’re hesitating on this point, ask, “Are you open to having another opinion about your house?” If they say yes, you are generally able to set an appointment with them.
+If you get the sense that they’re hesitating on this point, ask, **“Are you open to having another opinion about your house?”** If they say yes, you are generally able to set an appointment with them.
 
 Lastly, you’ll ask to set an appointment. When we do this on our team, we like to give them a no-obligation consultation. Say something along the lines of, **“Would you like us to come by and do an accurate description of what your home would sell for? We can also give you tips and tricks for what to do and not to do in order to get the most money for your home. Additionally, we’ll let you know what you’ll have in your pocket after you pay all of your expenses. Does that sound helpful?”**
 
