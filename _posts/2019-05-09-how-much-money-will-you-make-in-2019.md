@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Money Will You Make in 2019?
-date: 2019-05-09 18:17:16
+date: 2019-05-09 18:17:00
 tags:
 excerpt: >-
   Do you have a plan for meeting your income-related goals as a real estate
