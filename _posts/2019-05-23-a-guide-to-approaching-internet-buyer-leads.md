@@ -21,7 +21,7 @@ youtube_code: T_LzivSWhag
 
 The first thing to understand about internet buyer leads is that they’re leads you got from pay-per-click, Google, and Facebook—not direct inquiries from Zillow, Realtor.com, or your own website. Generally, these buyers are still very early on in the process. They’re not yet actively looking at a home, but rather just browsing online. The reason it’s important to understand this is that you need to approach these leads from a place of customer service as opposed to a hard-driving sales call.
 
-Today, I’ll share a few tips about how to go about converting these uncertain buyers into enthusiastic clients.
+Today I’ll share a few tips about how to go about converting these uncertain buyers into enthusiastic clients.
 
 **For your convenience, I’ve provided timestamps below that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**&nbsp;
 
